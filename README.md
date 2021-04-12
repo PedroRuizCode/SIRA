@@ -5,7 +5,7 @@
 - ***Conoce más haciendo click en la siguiente imagen***
 
 <p align="center">
-<a href="http://sira.125mb.com/"  target="_blank"<img src ="./images/page.png" alt="drawing" width="500"/> </a>
+<a href="http://sira.125mb.com/"  target="_blank"> <img src ="./images/page.png" alt="sira" width="500"/> </a>
 </p>
 
 
