@@ -9,8 +9,16 @@
 </p>
 
 
+<h3 align="left">📬 Encuentranos en:</h3>
 
-# **This project is being developed by:**
+
+<p align="left">
+<a href="https://www.facebook.com/sira.iot/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_facebook_fb_35.png" alt="PedroRuizCode on Facebook" height="40" /></a>
+<a href="https://www.instagram.com/sira.iot/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_instagram_3.png" alt="PedroRuizCode on Instagram" height="40" /></a>
+<a href="https://twitter.com/SIRAIoT" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_Twitter_38.png" alt="PedroRuizCode on Twitter" height="40" /></a>
+</p>
+
+# **Este proyecto está siendo desarrollado por:**
 
 ✈️ Angela Maria Logreira Jimenez, [GitHub](https://github.com/AngelaLogreira), Email: angelalogreira@javeriana.edu.co
 
